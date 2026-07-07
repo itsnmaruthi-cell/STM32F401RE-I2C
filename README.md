@@ -6,7 +6,9 @@
 
 ## 📸 Demo
 
-*(Add photo of OLED showing temperature and humidity here)*
+
+<img width="1600" height="921" alt="image" src="https://github.com/user-attachments/assets/1b15bed5-76e1-47d1-8180-45fef5a094b8" />
+
 
 ---
 
