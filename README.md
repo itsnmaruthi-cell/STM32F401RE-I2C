@@ -133,4 +133,4 @@ This project is part of my embedded systems learning roadmap covering:
 GPIO → Timers → UART → I2C → SPI → Sensor Integration
 ---
 
-## 🧠 How It Works
+
