@@ -133,4 +133,7 @@ This project is part of my embedded systems learning roadmap covering:
 GPIO → Timers → UART → I2C → SPI → Sensor Integration
 ---
 
+## References 
+Built with guidance and learning resources as part of a structured embedded systems curriculum.
+
 
